@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "878148020347",
+    "project_id": "lets-study-f64a3",
+    "storage_bucket": "lets-study-f64a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878148020347:android:e6fd95d544e501dc6b9ade",
+        "android_client_info": {
+          "package_name": "com.example.lets_study"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878148020347-ok0h5umsg3k9b0o3earq9q6friluuook.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lets_study",
+            "certificate_hash": "bcc445992e30ed6684147a26ef17034b611e3648"
+          }
+        },
+        {
+          "client_id": "878148020347-fneq250ieughv7vh87il9phusrnup3dd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChoIASPsEMopdqaJVTHxKZmobcKtUJMmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878148020347-fneq250ieughv7vh87il9phusrnup3dd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
